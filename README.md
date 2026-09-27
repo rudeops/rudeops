@@ -21,12 +21,12 @@ Pas de cookie. Pas de traceur. Pas de growth hacking. Juste de la veille, en fra
 
 | | |
 |---|---|
-| 📬 **[La newsletter](https://www.rudeops.com/newsletters)** | Chaque lundi. La veille DevOps/SRE de la semaine, triée, commentée, rarement objective. |
-| 📡 **[Radar](https://www.rudeops.com/radar)** | Les signaux du jour, pour ceux qui ne tiennent pas jusqu’à lundi. [RSS](https://www.rudeops.com/radar/feed.xml) |
-| 📖 **[Guides](https://www.rudeops.com/guides)** | [Kubernetes](https://www.rudeops.com/guides/kubernetes), [Docker](https://www.rudeops.com/guides/docker), [Git](https://www.rudeops.com/guides/git), [SSH](https://www.rudeops.com/guides/ssh), [tmux](https://www.rudeops.com/guides/tmux), [jq](https://www.rudeops.com/guides/jq), [grep/awk/sed](https://www.rudeops.com/guides/grep-awk-sed), [systemd](https://www.rudeops.com/guides/systemd)… Ce que la doc officielle aurait dû dire. |
-| 🎓 **[Certifications](https://www.rudeops.com/certifications)** | KCNA et KCSA, avec quiz. Pour réviser sans payer une formation hors de prix. |
-| 📕 **[Rudéfinitions](https://www.rudeops.com/rudefinitions)** | Environ 300 définitions de la tech et du devops. Plus honnêtes que Wikipédia, moins que ton N+2. |
-| 🧰 **[rudetools.dev](https://rudetools.dev)** | Les outils open source qui servent vraiment. |
+| **[La newsletter](https://www.rudeops.com/newsletters)** | Chaque lundi. La veille DevOps/SRE de la semaine, triée, commentée, rarement objective. |
+| **[Radar](https://www.rudeops.com/radar)** | Les signaux du jour, pour ceux qui ne tiennent pas jusqu’à lundi. [RSS](https://www.rudeops.com/radar/feed.xml) |
+| **[Guides](https://www.rudeops.com/guides)** | [Kubernetes](https://www.rudeops.com/guides/kubernetes), [Docker](https://www.rudeops.com/guides/docker), [Git](https://www.rudeops.com/guides/git), [SSH](https://www.rudeops.com/guides/ssh), [tmux](https://www.rudeops.com/guides/tmux), [jq](https://www.rudeops.com/guides/jq), [grep/awk/sed](https://www.rudeops.com/guides/grep-awk-sed), [systemd](https://www.rudeops.com/guides/systemd)… Ce que la doc officielle aurait dû dire. |
+| **[Certifications](https://www.rudeops.com/certifications)** | KCNA et KCSA, avec quiz. Pour réviser sans payer une formation hors de prix. |
+| **[Rudéfinitions](https://www.rudeops.com/rudefinitions)** | Environ 300 définitions de la tech et du devops. Plus honnêtes que Wikipédia, moins que ton N+2. |
+| **[rudetools.dev](https://rudetools.dev)** | Les outils open source qui servent vraiment. |
 
 ## Ce qui traîne ici
 
